@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/mannabin/static/css/main.2cce8147.chunk.css",
-    "main.js": "/mannabin/static/js/main.56acb91c.chunk.js",
-    "main.js.map": "/mannabin/static/js/main.56acb91c.chunk.js.map",
-    "runtime~main.js": "/mannabin/static/js/runtime~main.8b722c9b.js",
-    "runtime~main.js.map": "/mannabin/static/js/runtime~main.8b722c9b.js.map",
-    "static/js/2.c27c9171.chunk.js": "/mannabin/static/js/2.c27c9171.chunk.js",
-    "static/js/2.c27c9171.chunk.js.map": "/mannabin/static/js/2.c27c9171.chunk.js.map",
-    "index.html": "/mannabin/index.html",
-    "precache-manifest.b7a6b8a7119ac19406c0ba0b5e749901.js": "/mannabin/precache-manifest.b7a6b8a7119ac19406c0ba0b5e749901.js",
-    "service-worker.js": "/mannabin/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/mannabin/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/mannabin/static/media/logo.5d5d9eef.svg"
+    "main.css": "/mannabin_front/static/css/main.2cce8147.chunk.css",
+    "main.js": "/mannabin_front/static/js/main.8490d7e4.chunk.js",
+    "main.js.map": "/mannabin_front/static/js/main.8490d7e4.chunk.js.map",
+    "runtime~main.js": "/mannabin_front/static/js/runtime~main.feacce36.js",
+    "runtime~main.js.map": "/mannabin_front/static/js/runtime~main.feacce36.js.map",
+    "static/js/2.c27c9171.chunk.js": "/mannabin_front/static/js/2.c27c9171.chunk.js",
+    "static/js/2.c27c9171.chunk.js.map": "/mannabin_front/static/js/2.c27c9171.chunk.js.map",
+    "index.html": "/mannabin_front/index.html",
+    "precache-manifest.2cf6befeb02f2207672fb53a4582c12d.js": "/mannabin_front/precache-manifest.2cf6befeb02f2207672fb53a4582c12d.js",
+    "service-worker.js": "/mannabin_front/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/mannabin_front/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/mannabin_front/static/media/logo.5d5d9eef.svg"
   }
 }
